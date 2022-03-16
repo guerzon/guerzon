@@ -2,7 +2,7 @@
 
 My name is Lester, a Linux sysadmin passionate about open source, Ansible, and Kubernetes.
 
-I'm an IT Backend Specialist at [censhare](censhare.com) (Linux SaaS/Cloud systems engineer). In my free time, I love reading books and also teach myself languages (currently Spanish and German) and cybersecurity for fun!
+I'm an IT Backend Specialist at [censhare](https://censhare.com) (Linux SaaS/Cloud systems engineer). In my free time, I love reading books and also teach myself languages (currently Spanish and German) and cybersecurity for fun!
 
 **some of my public writeups**
 
