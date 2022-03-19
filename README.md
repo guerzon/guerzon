@@ -32,7 +32,7 @@ I love reading books and also teach myself languages (currently Spanish and Germ
 <br>
 <br>
 
-### i write too!
+### :keyboard: i write too!
 
 Here are some of my writeups. Most of them are about cybersecurity topics, but I plan on writing about Linux internals and Kubernetes soon!
 
@@ -43,7 +43,7 @@ Here are some of my writeups. Most of them are about cybersecurity topics, but I
 - [Digital Overdose Autumn 2021 CTF - Part 2: Web](https://www.pidnull.io/2021/10/09/DigitalOverdoseCTF-Part2.html)
 - [CVE-2021-44228 log4j2 exploit PoC](https://www.pidnull.io/2021/12/17/CVE-2021-44228-log4j2-analysis-exploit-PoC.html)
 
-### say hi if you're also on these platforms
+### say hi if you're also on these platforms :coffee:
 
 - twitter: <https://twitter.com/pidnull>
 - linkedin: <https://www.linkedin.com/in/ilesterg>
