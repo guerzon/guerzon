@@ -32,7 +32,7 @@ I love reading books and also teach myself languages (currently Spanish and Germ
 <br>
 <br>
 
-### :keyboard: i write too!
+## :keyboard: i write too!
 
 Here are some of my writeups. Most of them are about cybersecurity topics, but I plan on writing about Linux internals and Kubernetes soon!
 
