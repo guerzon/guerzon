@@ -20,7 +20,7 @@ I love reading books and also teach myself languages (currently Spanish and Germ
 <br>
 <br>
 
-### :books: what i'm currently working on
+## what i'm currently working on :books:
 
 <a href="https://helm.sh"><img src="https://api.civo.com/k3s-marketplace/helm.png" width=35px align=left alt="Helm" /></a>
 <a href="https://rockylinux.org/"><img src="https://avatars.githubusercontent.com/u/75713131?s=280&v=4" width=35px align=left alt="Rocky Linux" /></a>
