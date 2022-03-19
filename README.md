@@ -5,7 +5,7 @@ My name is **Lester**, a Linux sysadmin passionate about open source, Ansible, a
 
 I love reading books and also teach myself languages (currently Spanish and German) and cybersecurity for fun! At work, I'm an IT Backend Specialist (i.e. Linux SaaS and cloud systems engineer) at [censhare GmbH](https://censhare.com).
 
-## 👨‍💻 my core competencies
+### 👨‍💻 my core competencies
 
 <a href="https://www.linuxfoundation.org/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width=35px align=left alt="Linux" /></a>
 <a href="https://www.redhat.com"><img src="https://www.ohjelmistot.com/sites/default/files/redhat.jpg" width=35px align=left alt="RHEL" /></a>
@@ -17,10 +17,11 @@ I love reading books and also teach myself languages (currently Spanish and Germ
 <a href="https://docs.ansible.com/"><img src="https://avatars.githubusercontent.com/u/1507452?s=280&v=4" width=35px align=left alt="Ansible" /></a>
 <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width=35px align=left alt="Python" /></a>
 
-<br>
-<br>
+<br />
+<br />
 
-## what i'm currently working on :books:
+
+### what i'm currently working on :books:
 
 <a href="https://helm.sh"><img src="https://api.civo.com/k3s-marketplace/helm.png" width=35px align=left alt="Helm" /></a>
 <a href="https://rockylinux.org/"><img src="https://avatars.githubusercontent.com/u/75713131?s=280&v=4" width=35px align=left alt="Rocky Linux" /></a>
@@ -29,10 +30,11 @@ I love reading books and also teach myself languages (currently Spanish and Germ
 <a href="https://podman.io"><img src="https://remote-lab.net/public/images/podman.png" width=35px align=left alt="Podman" /></a>
 <a href="https://github.com/prometheus/prometheus"><img src="https://www.clipartmax.com/png/small/450-4502990_prometheus-logo-logo-prometheus-monitoring.png" width=35px align=left alt="Prometheus" /></a>
 
-<br>
-<br>
+<br />
+<br />
 
-## :keyboard: i write too!
+
+### :keyboard: i write too!
 
 Here are some of my writeups. Most of them are about cybersecurity topics, but I plan on writing about Linux internals and Kubernetes soon!
 
@@ -43,7 +45,7 @@ Here are some of my writeups. Most of them are about cybersecurity topics, but I
 - [Digital Overdose Autumn 2021 CTF - Part 2: Web](https://www.pidnull.io/2021/10/09/DigitalOverdoseCTF-Part2.html)
 - [CVE-2021-44228 log4j2 exploit PoC](https://www.pidnull.io/2021/12/17/CVE-2021-44228-log4j2-analysis-exploit-PoC.html)
 
-## say 'hi!' if you're also on these platforms! :coffee:
+### say 'hi!' if you're also on these platforms! :coffee:
 
 - twitter: <https://twitter.com/pidnull>
 - linkedin: <https://www.linkedin.com/in/ilesterg>
