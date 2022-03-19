@@ -5,11 +5,11 @@ My name is **Lester**, a Linux sysadmin passionate about open source, Ansible, a
 
 I love reading books and also teach myself languages (currently Spanish and German) and cybersecurity for fun! At work, I'm an IT Backend Specialist (i.e. Linux SaaS and cloud systems engineer) at [censhare GmbH](https://censhare.com).
 
-### my core competencies
+## 👨‍💻 my core competencies
 
 <a href="https://www.linuxfoundation.org/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width=35px align=left alt="Linux" /></a>
 <a href="https://www.redhat.com"><img src="https://www.ohjelmistot.com/sites/default/files/redhat.jpg" width=35px align=left alt="RHEL" /></a>
-<a href=""><img src="https://1.bp.blogspot.com/-hM4qbqqDuyM/YH7mFM2LCYI/AAAAAAAAfNo/M2C5FhbPepwfOAu1bYUXUe_3n-FHwh-4QCLcBGAsYHQ/s0/debian.png" width=35px align=left alt="Debian" /></a>
+<a href="https://www.debian.org/"><img src="https://1.bp.blogspot.com/-hM4qbqqDuyM/YH7mFM2LCYI/AAAAAAAAfNo/M2C5FhbPepwfOAu1bYUXUe_3n-FHwh-4QCLcBGAsYHQ/s0/debian.png" width=35px align=left alt="Debian" /></a>
 <a href="https://www.centos.org/"><img src="https://bero-host.de/img/public/shop/vserver/templates/centos.png" width=35px align=left alt="CentOS" /></a>
 <a href="https://kubernetes.io/"><img src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" width=35px align=left alt="Kubernetes" /></a>
 <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width=35px align=left alt="" /></a>
@@ -20,7 +20,7 @@ I love reading books and also teach myself languages (currently Spanish and Germ
 <br>
 <br>
 
-### what i'm currently working on
+### :books: what i'm currently working on
 
 <a href="https://helm.sh"><img src="https://api.civo.com/k3s-marketplace/helm.png" width=35px align=left alt="Helm" /></a>
 <a href="https://rockylinux.org/"><img src="https://avatars.githubusercontent.com/u/75713131?s=280&v=4" width=35px align=left alt="Rocky Linux" /></a>
