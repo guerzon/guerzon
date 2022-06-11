@@ -1,9 +1,9 @@
 
 ## hello! 👋
 
-My name is **Lester**, a Linux sysadmin passionate about open source, Ansible, and Kubernetes.
+My name is **Lester**, a Linux platform engineer passionate about Kubernetes, OSS, and Ansible.
 
-I love reading books and also teach myself languages (currently Spanish and German) and cybersecurity for fun! At work, I'm an IT Backend Specialist (i.e. Linux SaaS and cloud systems engineer) at [censhare GmbH](https://censhare.com).
+I love reading books and also teach myself languages (currently Spanish and German) and cybersecurity for fun! At work, I'm an IT Backend Specialist (i.e. Linux SaaS and cloud systems engineering) at [censhare GmbH](https://censhare.com).
 
 ### 👨‍💻 my core competencies
 
@@ -36,8 +36,9 @@ I love reading books and also teach myself languages (currently Spanish and Germ
 
 ### :keyboard: i write too!
 
-Here are some of my writeups. Most of them are about cybersecurity topics, but I plan on writing about Linux internals and Kubernetes soon!
+Here are some of my writeups. Most of them are about cybersecurity topics, but I plan on writing more Linux internals and Kubernetes soon!
 
+- [Demystifying Kubernetes — Series intro and building a cluster](https://medium.com/@pidnull/demystifying-kubernetes-series-intro-and-building-a-cluster-2f4e84da4363)
 - [SolidState (Medium-difficulty machine)](https://www.pidnull.io/2021/09/04/HackTheBox_SolidState(Medium).html)
 - [zh3r0 CTF - sParta Web Challenge
 ](https://www.pidnull.io/2021/09/05/zh3r0-ctf-sParta-Web-Challenge.html)
