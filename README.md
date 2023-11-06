@@ -43,6 +43,7 @@ In my free time, I like contributing to open source projects. I find it a great 
 
 ### ⭐ Recent Stars
 
+- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (today)
 - [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers (2 days ago)
 - [guerzon/blog.pidnull.io](https://github.com/guerzon/blog.pidnull.io) - k8s, cloud, golang, and security ramblings or a recovering sysadmin. SRE wannabe. (2 days ago)
 - [wangyoucao577/go-release-action](https://github.com/wangyoucao577/go-release-action) - Automatically publish Go binaries to Github Release Assets through Github Action. (2 days ago)
@@ -52,7 +53,6 @@ In my free time, I like contributing to open source projects. I find it a great 
 - [guerzon/containerinfo](https://github.com/guerzon/containerinfo) - Demo: Python app that extracts Kubernetes metrics (6 days ago)
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors (1 week ago)
 - [BishopFox/sliver](https://github.com/BishopFox/sliver) - Adversary Emulation Framework (2 weeks ago)
-- [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (3 weeks ago)
 
 ## :coffee: reaching out
 
