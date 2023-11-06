@@ -14,7 +14,8 @@ In my free time, I like contributing to open source projects. I find it a great 
 - [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) - Helm chart for [Vaultwarden](https://github.com/dani-garcia/vaultwarden), an alternative implementation of the Bitwarden server API compatible with upstream Bitwarden clients.
 - [guerzon/clair-helm](https://github.com/guerzon/clair-helm) - Helm chart for [Clair](https://github.com/quay/clair), a vulnerability scanner for containers written in Go.
 - [guerzon/gochk](https://github.com/guerzon/gochk) - a command-line tool for various SSL/TLS stuff. I created this tool to practice Go, specifically on interacting with network services.
-- [guerzon/node_exporter](https://github.com/guerzon/node_exporter) - This is the fork for [Prometheus node exporter](https://github.com/prometheus/node_exporter), one of my open source projects I have a task that I am working on.
+- [guerzon/node_exporter](https://github.com/guerzon/node_exporter) - Fixing bugs for the [Prometheus node exporter](https://github.com/prometheus/node_exporter).
+- [guerzon/kops](https://github.com/guerzon/kops) - Fixing bugs for [kops](https://kops.sigs.k8s.io/).
 
 ### 👷 Check out what I'm currently working on
 
