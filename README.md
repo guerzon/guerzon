@@ -5,19 +5,19 @@ My name is **Lester**, a Linux engineer passionate about system internals, publi
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=guerzon&theme=github_dark&show_icons=true&custom_title=Lester's%20stats#gh-dark-mode-only)
 
-### :building_construction: open source
+## :building_construction: open source
 
 In my free time, I like contributing to open source projects. I find it a great way to learn my target tech and to see how different projects approach different problems.
 
-#### 🌱 My current projects
+### 🌱 My current projects
 
 - [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) - Helm chart for [Vaultwarden](https://github.com/dani-garcia/vaultwarden), an alternative implementation of the Bitwarden server API compatible with upstream Bitwarden clients.
-If you are looking for volunteers for any of the following, feel free to reach out.
 - [guerzon/clair-helm](https://github.com/guerzon/clair-helm) - Helm chart for [Clair](https://github.com/quay/clair), a vulnerability scanner for containers written in Go.
-- [guerzon/gochk](https://github.com/guerzon/gochk) - a command-line tool for various SSL/TLS stuff. I created this tool to practice Go with regards to interacting with network services.
-- [guerzon/node_exporter](https://github.com/guerzon/node_exporter) - This is the fork for [Prometheus node exporter](https://github.com/prometheus/node_exporter), one of my open source projects I have a task that I am working on.
+- [guerzon/gochk](https://github.com/guerzon/gochk) - a command-line tool for various SSL/TLS stuff. I created this tool to practice Go, specifically on interacting with network services.
+- [guerzon/node_exporter](https://github.com/guerzon/node_exporter) - Fixing bugs for the [Prometheus node exporter](https://github.com/prometheus/node_exporter).
+- [guerzon/kops](https://github.com/guerzon/kops) - Fixing bugs for [kops](https://kops.sigs.k8s.io/).
 
-#### 👷 Check out what I'm currently working on
+### 👷 Check out what I'm currently working on
 
 
 - [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) - Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust. (1 day ago)
@@ -28,7 +28,7 @@ If you are looking for volunteers for any of the following, feel free to reach o
 - [guerzon/blog.pidnull.io](https://github.com/guerzon/blog.pidnull.io) - k8s, cloud, golang, and security ramblings or a recovering sysadmin. SRE wannabe. (5 days ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (5 months ago)
 
-#### 🔨 My recent Pull Requests
+### 🔨 My recent Pull Requests
 
 - [fix: sts annotations](https://github.com/guerzon/vaultwarden/pull/54) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 day ago)
 - [feat: multiple features](https://github.com/guerzon/vaultwarden/pull/53) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 day ago)
@@ -41,7 +41,7 @@ If you are looking for volunteers for any of the following, feel free to reach o
 - [docs: minor wording and cleanup in graceful shutdown example](https://github.com/gin-gonic/website/pull/248) on [gin-gonic/website](https://github.com/gin-gonic/website) (1 week ago)
 - [ca: add ca cert creation](https://github.com/guerzon/gochk/pull/2) on [guerzon/gochk](https://github.com/guerzon/gochk) (1 month ago)
 
-#### ⭐ Recent Stars
+### ⭐ Recent Stars
 
 - [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers (2 days ago)
 - [guerzon/blog.pidnull.io](https://github.com/guerzon/blog.pidnull.io) - k8s, cloud, golang, and security ramblings or a recovering sysadmin. SRE wannabe. (2 days ago)
@@ -54,7 +54,7 @@ If you are looking for volunteers for any of the following, feel free to reach o
 - [BishopFox/sliver](https://github.com/BishopFox/sliver) - Adversary Emulation Framework (2 weeks ago)
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (3 weeks ago)
 
-### :coffee: reaching out
+## :coffee: reaching out
 
 Looking to build any of the following? I would love to help!
 
