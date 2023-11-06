@@ -30,6 +30,7 @@ In my free time, I like contributing to open source projects. I find it a great 
 
 ### 🔨 My recent Pull Requests
 
+- [feat: write log when marking InstanceGroup node as needs update](https://github.com/kubernetes/kops/pull/16079) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [fix: sts annotations](https://github.com/guerzon/vaultwarden/pull/54) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 day ago)
 - [feat: multiple features](https://github.com/guerzon/vaultwarden/pull/53) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 day ago)
 - [feat: add podAnnotations on StatefulSet](https://github.com/guerzon/vaultwarden/pull/52) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 day ago)
@@ -39,7 +40,6 @@ In my free time, I like contributing to open source projects. I find it a great 
 - [ci: fix linting errors, bump chart version](https://github.com/guerzon/vaultwarden/pull/49) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (3 days ago)
 - [feat(fluentd): allow passing env vars using the chart](https://github.com/fluent/fluent-operator/pull/977) on [fluent/fluent-operator](https://github.com/fluent/fluent-operator) (3 days ago)
 - [docs: minor wording and cleanup in graceful shutdown example](https://github.com/gin-gonic/website/pull/248) on [gin-gonic/website](https://github.com/gin-gonic/website) (1 week ago)
-- [ca: add ca cert creation](https://github.com/guerzon/gochk/pull/2) on [guerzon/gochk](https://github.com/guerzon/gochk) (1 month ago)
 
 ### ⭐ Recent Stars
 
