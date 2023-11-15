@@ -20,7 +20,7 @@ In my free time, I like contributing to open source projects. I find it a great 
 ### 👷 Check out what I'm currently working on
 
 
-- [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) - Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust. (1 week ago)
+- [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) - Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust. (today)
 - [guerzon/gochk](https://github.com/guerzon/gochk) - Command-line tool for various SSL/TLS stuff. (1 week ago)
 - [guerzon/clair-helm](https://github.com/guerzon/clair-helm) - Helm chart for Clair, a vulnerability static analysis tool for containers from quay.io (1 week ago)
 - [etcd-io/website](https://github.com/etcd-io/website) - etcd.io (1 week ago)
