@@ -20,7 +20,7 @@ In my free time, I like contributing to open source projects. I find it a great 
 ### 👷 Check out what I'm currently working on
 
 
-- [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) - Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust. (3 days ago)
+- [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) - Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust. (4 days ago)
 - [guerzon/clair-helm](https://github.com/guerzon/clair-helm) - Helm chart for Clair, a vulnerability static analysis tool for containers from quay.io (2 weeks ago)
 - [etcd-io/website](https://github.com/etcd-io/website) - etcd.io (2 weeks ago)
 - [fluent/fluent-operator](https://github.com/fluent/fluent-operator) - Operate Fluent Bit and Fluentd in the Kubernetes way - Previously known as FluentBit Operator (2 weeks ago)
@@ -30,9 +30,9 @@ In my free time, I like contributing to open source projects. I find it a great 
 ### 🔨 My recent Pull Requests
 
 - [feat: write log when marking InstanceGroup node as needs update](https://github.com/kubernetes/kops/pull/16079) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
-- [fix: sts annotations](https://github.com/guerzon/vaultwarden/pull/54) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 week ago)
-- [feat: multiple features](https://github.com/guerzon/vaultwarden/pull/53) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 week ago)
-- [feat: add podAnnotations on StatefulSet](https://github.com/guerzon/vaultwarden/pull/52) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 week ago)
+- [fix: sts annotations](https://github.com/guerzon/vaultwarden/pull/54) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (2 weeks ago)
+- [feat: multiple features](https://github.com/guerzon/vaultwarden/pull/53) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (2 weeks ago)
+- [feat: add podAnnotations on StatefulSet](https://github.com/guerzon/vaultwarden/pull/52) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (2 weeks ago)
 - [clair helm chart MVP](https://github.com/guerzon/clair-helm/pull/1) on [guerzon/clair-helm](https://github.com/guerzon/clair-helm) (2 weeks ago)
 - [docs: update broken links, fix outdated links](https://github.com/etcd-io/website/pull/742) on [etcd-io/website](https://github.com/etcd-io/website) (2 weeks ago)
 - [chore: bump default img tag, update documentation](https://github.com/guerzon/vaultwarden/pull/50) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (2 weeks ago)
