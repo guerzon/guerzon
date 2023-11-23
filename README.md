@@ -50,7 +50,7 @@ In my free time, I like contributing to open source projects. I find it a great 
 - [guerzon/kubeinfo](https://github.com/guerzon/kubeinfo) - Simple API to get information about a running Kubernetes cluster (3 weeks ago)
 - [guerzon/gochk](https://github.com/guerzon/gochk) - Command-line tool for various SSL/TLS stuff. (3 weeks ago)
 - [guerzon/containerinfo](https://github.com/guerzon/containerinfo) - Demo: Python app that extracts Kubernetes metrics (3 weeks ago)
-- [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors (4 weeks ago)
+- [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors (1 month ago)
 - [BishopFox/sliver](https://github.com/BishopFox/sliver) - Adversary Emulation Framework (1 month ago)
 
 ## :coffee: reaching out
