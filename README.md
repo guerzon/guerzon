@@ -25,14 +25,14 @@ In my free time, I like contributing to open source projects. I find it a great 
 - [etcd-io/website](https://github.com/etcd-io/website) - etcd.io (1 month ago)
 - [fluent/fluent-operator](https://github.com/fluent/fluent-operator) - Operate Fluent Bit and Fluentd in the Kubernetes way - Previously known as FluentBit Operator (1 month ago)
 - [guerzon/blog.pidnull.io](https://github.com/guerzon/blog.pidnull.io) - k8s, cloud, golang, and security ramblings or a recovering sysadmin. SRE wannabe. (1 month ago)
-- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (5 months ago)
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (6 months ago)
 
 ### 🔨 My recent Pull Requests
 
 - [feat: write log when marking InstanceGroup node as needs update](https://github.com/kubernetes/kops/pull/16079) on [kubernetes/kops](https://github.com/kubernetes/kops) (4 weeks ago)
-- [fix: sts annotations](https://github.com/guerzon/vaultwarden/pull/54) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (4 weeks ago)
-- [feat: multiple features](https://github.com/guerzon/vaultwarden/pull/53) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (4 weeks ago)
-- [feat: add podAnnotations on StatefulSet](https://github.com/guerzon/vaultwarden/pull/52) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (4 weeks ago)
+- [fix: sts annotations](https://github.com/guerzon/vaultwarden/pull/54) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 month ago)
+- [feat: multiple features](https://github.com/guerzon/vaultwarden/pull/53) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 month ago)
+- [feat: add podAnnotations on StatefulSet](https://github.com/guerzon/vaultwarden/pull/52) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 month ago)
 - [clair helm chart MVP](https://github.com/guerzon/clair-helm/pull/1) on [guerzon/clair-helm](https://github.com/guerzon/clair-helm) (1 month ago)
 - [docs: update broken links, fix outdated links](https://github.com/etcd-io/website/pull/742) on [etcd-io/website](https://github.com/etcd-io/website) (1 month ago)
 - [chore: bump default img tag, update documentation](https://github.com/guerzon/vaultwarden/pull/50) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 month ago)
@@ -42,7 +42,7 @@ In my free time, I like contributing to open source projects. I find it a great 
 
 ### ⭐ Recent Stars
 
-- [radian-software/riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language. (6 days ago)
+- [radian-software/riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language. (1 week ago)
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (4 weeks ago)
 - [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers (1 month ago)
 - [guerzon/blog.pidnull.io](https://github.com/guerzon/blog.pidnull.io) - k8s, cloud, golang, and security ramblings or a recovering sysadmin. SRE wannabe. (1 month ago)
