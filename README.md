@@ -42,6 +42,7 @@ In my free time, I like contributing to open source projects. I find it a great 
 
 ### ⭐ Recent Stars
 
+- [twitter/finagle](https://github.com/twitter/finagle) - A fault tolerant, protocol-agnostic RPC system (today)
 - [radian-software/riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language. (2 weeks ago)
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (1 month ago)
 - [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers (1 month ago)
@@ -51,7 +52,6 @@ In my free time, I like contributing to open source projects. I find it a great 
 - [guerzon/kubeinfo](https://github.com/guerzon/kubeinfo) - Simple API to get information about a running Kubernetes cluster (1 month ago)
 - [guerzon/gochk](https://github.com/guerzon/gochk) - Command-line tool for various SSL/TLS stuff. (1 month ago)
 - [guerzon/containerinfo](https://github.com/guerzon/containerinfo) - Demo: Python app that extracts Kubernetes metrics (1 month ago)
-- [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors (1 month ago)
 
 ## :coffee: reaching out
 
