@@ -20,8 +20,8 @@ In my free time, I like contributing to open source projects. I find it a great 
 ### 👷 Check out what I'm currently working on
 
 
+- [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) - Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust. (today)
 - [guerzon/vaultwarden-ansible](https://github.com/guerzon/vaultwarden-ansible) - Ansible role for Vaultwarden (1 day ago)
-- [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) - Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust. (5 days ago)
 - [guerzon/clair-helm](https://github.com/guerzon/clair-helm) - Helm chart for Clair, a vulnerability static analysis tool for containers from quay.io (1 month ago)
 - [etcd-io/website](https://github.com/etcd-io/website) - etcd.io (1 month ago)
 - [fluent/fluent-operator](https://github.com/fluent/fluent-operator) - Operate Fluent Bit and Fluentd in the Kubernetes way - Previously known as FluentBit Operator (1 month ago)
@@ -30,6 +30,7 @@ In my free time, I like contributing to open source projects. I find it a great 
 
 ### 🔨 My recent Pull Requests
 
+- [feat: add yubikey support, update docs](https://github.com/guerzon/vaultwarden/pull/66) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (today)
 - [feat: write log when marking InstanceGroup node as needs update](https://github.com/kubernetes/kops/pull/16079) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 month ago)
 - [fix: sts annotations](https://github.com/guerzon/vaultwarden/pull/54) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 month ago)
 - [feat: multiple features](https://github.com/guerzon/vaultwarden/pull/53) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 month ago)
@@ -39,7 +40,6 @@ In my free time, I like contributing to open source projects. I find it a great 
 - [chore: bump default img tag, update documentation](https://github.com/guerzon/vaultwarden/pull/50) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 month ago)
 - [ci: fix linting errors, bump chart version](https://github.com/guerzon/vaultwarden/pull/49) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 month ago)
 - [feat(fluentd): allow passing env vars using the chart](https://github.com/fluent/fluent-operator/pull/977) on [fluent/fluent-operator](https://github.com/fluent/fluent-operator) (1 month ago)
-- [docs: minor wording and cleanup in graceful shutdown example](https://github.com/gin-gonic/website/pull/248) on [gin-gonic/website](https://github.com/gin-gonic/website) (1 month ago)
 
 ### ⭐ Recent Stars
 
