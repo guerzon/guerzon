@@ -20,7 +20,7 @@ In my free time, I like contributing to open source projects. I find it a great 
 ### 👷 Check out what I'm currently working on
 
 
-- [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) - Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust. (1 week ago)
+- [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) - Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust, formerly known as bitwarden_rs (1 week ago)
 - [guerzon/vaultwarden-ansible](https://github.com/guerzon/vaultwarden-ansible) - Ansible role for Vaultwarden (1 week ago)
 - [guerzon/clair-helm](https://github.com/guerzon/clair-helm) - Helm chart for Clair, a vulnerability static analysis tool for containers from quay.io (1 month ago)
 - [etcd-io/website](https://github.com/etcd-io/website) - etcd.io (1 month ago)
@@ -50,9 +50,9 @@ In my free time, I like contributing to open source projects. I find it a great 
 - [guerzon/blog.pidnull.io](https://github.com/guerzon/blog.pidnull.io) - k8s, cloud, golang, and security ramblings or a recovering sysadmin. SRE wannabe. (1 month ago)
 - [wangyoucao577/go-release-action](https://github.com/wangyoucao577/go-release-action) - Automatically publish Go binaries to Github Release Assets through Github Action. (1 month ago)
 - [guerzon/clair-helm](https://github.com/guerzon/clair-helm) - Helm chart for Clair, a vulnerability static analysis tool for containers from quay.io (1 month ago)
-- [guerzon/kubeinfo](https://github.com/guerzon/kubeinfo) - Simple API to get information about a running Kubernetes cluster (1 month ago)
-- [guerzon/gochk](https://github.com/guerzon/gochk) - Command-line tool for various SSL/TLS stuff. (1 month ago)
-- [guerzon/containerinfo](https://github.com/guerzon/containerinfo) - Demo: Python app that extracts Kubernetes metrics (1 month ago)
+- [guerzon/kubeinfo](https://github.com/guerzon/kubeinfo) - Simple API to get information about a running Kubernetes cluster (2 months ago)
+- [guerzon/gochk](https://github.com/guerzon/gochk) - Command-line tool for various SSL/TLS stuff. (2 months ago)
+- [guerzon/containerinfo](https://github.com/guerzon/containerinfo) - Demo: Python app that extracts Kubernetes metrics (2 months ago)
 
 ## :coffee: reaching out
 
