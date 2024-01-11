@@ -21,7 +21,7 @@ In my free time, I like contributing to open source projects. I find it a great 
 
 
 - [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) - Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust, formerly known as bitwarden_rs (2 weeks ago)
-- [guerzon/vaultwarden-ansible](https://github.com/guerzon/vaultwarden-ansible) - Ansible role for Vaultwarden (2 weeks ago)
+- [guerzon/vaultwarden-ansible](https://github.com/guerzon/vaultwarden-ansible) - Ansible role for Vaultwarden (3 weeks ago)
 - [guerzon/clair-helm](https://github.com/guerzon/clair-helm) - Helm chart for Clair, a vulnerability static analysis tool for containers from quay.io (2 months ago)
 - [etcd-io/website](https://github.com/etcd-io/website) - etcd.io (2 months ago)
 - [fluent/fluent-operator](https://github.com/fluent/fluent-operator) - Operate Fluent Bit and Fluentd in the Kubernetes way - Previously known as FluentBit Operator (2 months ago)
@@ -43,7 +43,7 @@ In my free time, I like contributing to open source projects. I find it a great 
 
 ### ⭐ Recent Stars
 
-- [twitter/finagle](https://github.com/twitter/finagle) - A fault tolerant, protocol-agnostic RPC system (3 weeks ago)
+- [twitter/finagle](https://github.com/twitter/finagle) - A fault tolerant, protocol-agnostic RPC system (4 weeks ago)
 - [radian-software/riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language. (1 month ago)
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (2 months ago)
 - [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers (2 months ago)
