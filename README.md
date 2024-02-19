@@ -20,7 +20,7 @@ In my free time, I like contributing to open source projects. I find it a great 
 ### 👷 Check out what I'm currently working on
 
 
-- [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) - Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust, formerly known as bitwarden_rs (today)
+- [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) - Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust, formerly known as bitwarden_rs (1 day ago)
 - [guerzon/vaultwarden-ansible](https://github.com/guerzon/vaultwarden-ansible) -  (3 weeks ago)
 - [guerzon/keycloak-ansible](https://github.com/guerzon/keycloak-ansible) - Yet another Ansible role for Keycloak (3 weeks ago)
 - [guerzon/clair-helm](https://github.com/guerzon/clair-helm) - Helm chart for Clair, a vulnerability static analysis tool for containers from quay.io (3 months ago)
@@ -31,8 +31,8 @@ In my free time, I like contributing to open source projects. I find it a great 
 
 ### 🔨 My recent Pull Requests
 
-- [feat: update app, add more options, reorg docs](https://github.com/guerzon/vaultwarden/pull/73) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 day ago)
-- [feat: add support for more configuration options](https://github.com/guerzon/vaultwarden/pull/72) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 day ago)
+- [feat: update app, add more options, reorg docs](https://github.com/guerzon/vaultwarden/pull/73) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (2 days ago)
+- [feat: add support for more configuration options](https://github.com/guerzon/vaultwarden/pull/72) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (2 days ago)
 - [feat: add yubikey support, update docs](https://github.com/guerzon/vaultwarden/pull/66) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 month ago)
 - [feat: write log when marking InstanceGroup node as needs update](https://github.com/kubernetes/kops/pull/16079) on [kubernetes/kops](https://github.com/kubernetes/kops) (3 months ago)
 - [fix: sts annotations](https://github.com/guerzon/vaultwarden/pull/54) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (3 months ago)
