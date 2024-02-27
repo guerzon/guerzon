@@ -44,6 +44,7 @@ In my free time, I like contributing to open source projects. I find it a great 
 
 ### ⭐ Recent Stars
 
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (today)
 - [guerzon/clair-helm](https://github.com/guerzon/clair-helm) - Helm chart for Clair, a vulnerability static analysis tool for containers from quay.io (1 month ago)
 - [twitter/finagle](https://github.com/twitter/finagle) - A fault tolerant, protocol-agnostic RPC system (2 months ago)
 - [radian-software/riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language. (3 months ago)
@@ -53,7 +54,6 @@ In my free time, I like contributing to open source projects. I find it a great 
 - [wangyoucao577/go-release-action](https://github.com/wangyoucao577/go-release-action) - Automatically publish Go binaries to Github Release Assets through Github Action. (3 months ago)
 - [guerzon/kubeinfo](https://github.com/guerzon/kubeinfo) - Simple API to get information about a running Kubernetes cluster (3 months ago)
 - [guerzon/gochk](https://github.com/guerzon/gochk) - Command-line tool for various SSL/TLS stuff. (3 months ago)
-- [guerzon/containerinfo](https://github.com/guerzon/containerinfo) - Demo: Python app that extracts Kubernetes metrics (3 months ago)
 
 ## :coffee: reaching out
 
