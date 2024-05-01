@@ -21,8 +21,8 @@ In my free time, I like contributing to open source projects. I find it a great 
 
 
 - [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) - Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust, formerly known as bitwarden_rs (1 month ago)
-- [etcd-io/website](https://github.com/etcd-io/website) - etcd.io (5 months ago)
-- [fluent/fluent-operator](https://github.com/fluent/fluent-operator) - Operate Fluent Bit and Fluentd in the Kubernetes way - Previously known as FluentBit Operator (5 months ago)
+- [etcd-io/website](https://github.com/etcd-io/website) - etcd.io (6 months ago)
+- [fluent/fluent-operator](https://github.com/fluent/fluent-operator) - Operate Fluent Bit and Fluentd in the Kubernetes way - Previously known as FluentBit Operator (6 months ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (10 months ago)
 
 ### 🔨 My recent Pull Requests
@@ -34,9 +34,9 @@ In my free time, I like contributing to open source projects. I find it a great 
 - [fix: sts annotations](https://github.com/guerzon/vaultwarden/pull/54) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (5 months ago)
 - [feat: multiple features](https://github.com/guerzon/vaultwarden/pull/53) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (5 months ago)
 - [feat: add podAnnotations on StatefulSet](https://github.com/guerzon/vaultwarden/pull/52) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (5 months ago)
-- [docs: update broken links, fix outdated links](https://github.com/etcd-io/website/pull/742) on [etcd-io/website](https://github.com/etcd-io/website) (5 months ago)
-- [chore: bump default img tag, update documentation](https://github.com/guerzon/vaultwarden/pull/50) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (5 months ago)
-- [ci: fix linting errors, bump chart version](https://github.com/guerzon/vaultwarden/pull/49) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (5 months ago)
+- [docs: update broken links, fix outdated links](https://github.com/etcd-io/website/pull/742) on [etcd-io/website](https://github.com/etcd-io/website) (6 months ago)
+- [chore: bump default img tag, update documentation](https://github.com/guerzon/vaultwarden/pull/50) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (6 months ago)
+- [ci: fix linting errors, bump chart version](https://github.com/guerzon/vaultwarden/pull/49) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (6 months ago)
 
 ### ⭐ Recent Stars
 
