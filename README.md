@@ -20,7 +20,7 @@ In my free time, I like contributing to open source projects. I find it a great 
 ### 👷 Check out what I'm currently working on
 
 
-- [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) - Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust, formerly known as bitwarden_rs (1 month ago)
+- [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) - Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust, formerly known as bitwarden_rs (2 months ago)
 - [etcd-io/website](https://github.com/etcd-io/website) - etcd.io (6 months ago)
 - [fluent/fluent-operator](https://github.com/fluent/fluent-operator) - Operate Fluent Bit and Fluentd in the Kubernetes way - Previously known as FluentBit Operator (6 months ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (11 months ago)
