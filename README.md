@@ -27,8 +27,8 @@ In my free time, I like contributing to open source projects. I find it a great 
 
 ### 🔨 My recent Pull Requests
 
-- [feat: update app, add more options, reorg docs](https://github.com/guerzon/vaultwarden/pull/73) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (2 months ago)
-- [feat: add support for more configuration options](https://github.com/guerzon/vaultwarden/pull/72) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (2 months ago)
+- [feat: update app, add more options, reorg docs](https://github.com/guerzon/vaultwarden/pull/73) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (3 months ago)
+- [feat: add support for more configuration options](https://github.com/guerzon/vaultwarden/pull/72) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (3 months ago)
 - [feat: add yubikey support, update docs](https://github.com/guerzon/vaultwarden/pull/66) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (4 months ago)
 - [feat: write log when marking InstanceGroup node as needs update](https://github.com/kubernetes/kops/pull/16079) on [kubernetes/kops](https://github.com/kubernetes/kops) (6 months ago)
 - [fix: sts annotations](https://github.com/guerzon/vaultwarden/pull/54) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (6 months ago)
@@ -40,7 +40,7 @@ In my free time, I like contributing to open source projects. I find it a great 
 
 ### ⭐ Recent Stars
 
-- [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system (1 week ago)
+- [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system (2 weeks ago)
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (2 months ago)
 - [guerzon/clair-helm](https://github.com/guerzon/clair-helm) - Helm chart for Clair, a vulnerability static analysis tool for containers from quay.io (4 months ago)
 - [twitter/finagle](https://github.com/twitter/finagle) - A fault tolerant, protocol-agnostic RPC system (5 months ago)
