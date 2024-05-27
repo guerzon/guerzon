@@ -41,7 +41,7 @@ In my free time, I like contributing to open source projects. I find it a great 
 ### ⭐ Recent Stars
 
 - [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system (3 weeks ago)
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (2 months ago)
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (3 months ago)
 - [guerzon/clair-helm](https://github.com/guerzon/clair-helm) - Helm chart for Clair, a vulnerability static analysis tool for containers from quay.io (4 months ago)
 - [twitter/finagle](https://github.com/twitter/finagle) - A fault tolerant, protocol-agnostic RPC system (5 months ago)
 - [radian-software/riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language. (6 months ago)
