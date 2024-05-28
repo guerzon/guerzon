@@ -49,7 +49,7 @@ In my free time, I like contributing to open source projects. I find it a great 
 - [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers (6 months ago)
 - [guerzon/blog.pidnull.io](https://github.com/guerzon/blog.pidnull.io) - k8s, cloud, golang, and security ramblings or a recovering sysadmin. SRE wannabe. (6 months ago)
 - [wangyoucao577/go-release-action](https://github.com/wangyoucao577/go-release-action) - Automatically publish Go binaries to Github Release Assets through Github Action. (6 months ago)
-- [guerzon/kubeinfo](https://github.com/guerzon/kubeinfo) - Simple API to get information about a running Kubernetes cluster (6 months ago)
+- [guerzon/kubeinfo](https://github.com/guerzon/kubeinfo) - Simple API to get information about a running Kubernetes cluster (7 months ago)
 
 ## :coffee: reaching out
 
