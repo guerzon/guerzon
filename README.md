@@ -1,7 +1,7 @@
 
 ## hello! 👋
 
-My name is **Lester**, a Linux engineer passionate about system internals, public cloud, Kubernetes, open source, and cybersecurity.
+My name is **Lester**, a server systems professional passionate about Linux system internals, public cloud, Kubernetes, open source, and cybersecurity.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=guerzon&theme=github_dark&show_icons=true&custom_title=Lester's%20stats#gh-dark-mode-only)
 
@@ -53,12 +53,10 @@ In my free time, I like contributing to open source projects. I find it a great 
 
 ## :coffee: reaching out
 
-Looking to build any of the following? I would love to help!
+Looking for help on any of these?
 
 - Terraform providers
 - Helm charts
-- Linux proof-of-concept exploits (in Go)
 - Ansible roles
-- REST API in Golang
 
 I am reachable via the social links on my profile. Say hello, I don't bite!
