@@ -41,6 +41,7 @@ In my free time, I like contributing to open source projects. I find it a great 
 
 ### ⭐ Recent Stars
 
+- [securego/gosec](https://github.com/securego/gosec) - Go security checker (today)
 - [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system (3 months ago)
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (5 months ago)
 - [guerzon/clair-helm](https://github.com/guerzon/clair-helm) - Helm chart for Clair, a vulnerability static analysis tool for containers from quay.io (7 months ago)
@@ -50,7 +51,6 @@ In my free time, I like contributing to open source projects. I find it a great 
 - [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers (9 months ago)
 - [guerzon/blog.pidnull.io](https://github.com/guerzon/blog.pidnull.io) - k8s, cloud, golang, and security ramblings or a recovering sysadmin. SRE wannabe. (9 months ago)
 - [wangyoucao577/go-release-action](https://github.com/wangyoucao577/go-release-action) - Automatically publish Go binaries to Github Release Assets through Github Action. (9 months ago)
-- [guerzon/kubeinfo](https://github.com/guerzon/kubeinfo) - Simple API to get information about a running Kubernetes cluster (9 months ago)
 
 ## :coffee: reaching out
 
