@@ -20,17 +20,17 @@ In my free time, I like contributing to open source projects. I find it a great 
 ### 👷 Check out what I'm currently working on
 
 
-- [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) - Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust, formerly known as bitwarden_rs (today)
-- [guerzon/gobudget-api](https://github.com/guerzon/gobudget-api) - Golang pet project for a budgeting app inspired by YNAB (5 days ago)
+- [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) - Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust, formerly known as bitwarden_rs (1 day ago)
+- [guerzon/gobudget-api](https://github.com/guerzon/gobudget-api) - Golang pet project for a budgeting app inspired by YNAB (6 days ago)
 - [guerzon/clair-helm](https://github.com/guerzon/clair-helm) - Helm chart for Clair, a vulnerability static analysis tool for containers from quay.io (9 months ago)
-- [etcd-io/website](https://github.com/etcd-io/website) - etcd.io (9 months ago)
-- [fluent/fluent-operator](https://github.com/fluent/fluent-operator) - Operate Fluent Bit and Fluentd in the Kubernetes way - Previously known as FluentBit Operator (9 months ago)
+- [etcd-io/website](https://github.com/etcd-io/website) - etcd.io (10 months ago)
+- [fluent/fluent-operator](https://github.com/fluent/fluent-operator) - Operate Fluent Bit and Fluentd in the Kubernetes way - Previously known as FluentBit Operator (10 months ago)
 - [guerzon/dockerize-the-planet](https://github.com/guerzon/dockerize-the-planet) - Collection of Dockerfiles (10 months ago)
 
 ### 🔨 My recent Pull Requests
 
-- [fix: add flag to enable notifications service](https://github.com/guerzon/vaultwarden/pull/110) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 day ago)
-- [feat: volume improvements](https://github.com/guerzon/vaultwarden/pull/109) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (6 days ago)
+- [fix: add flag to enable notifications service](https://github.com/guerzon/vaultwarden/pull/110) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (2 days ago)
+- [feat: volume improvements](https://github.com/guerzon/vaultwarden/pull/109) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 week ago)
 - [feat: update app, add more options, reorg docs](https://github.com/guerzon/vaultwarden/pull/73) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (6 months ago)
 - [feat: add support for more configuration options](https://github.com/guerzon/vaultwarden/pull/72) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (6 months ago)
 - [feat: add yubikey support, update docs](https://github.com/guerzon/vaultwarden/pull/66) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (8 months ago)
@@ -38,11 +38,11 @@ In my free time, I like contributing to open source projects. I find it a great 
 - [fix: sts annotations](https://github.com/guerzon/vaultwarden/pull/54) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (9 months ago)
 - [feat: multiple features](https://github.com/guerzon/vaultwarden/pull/53) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (9 months ago)
 - [feat: add podAnnotations on StatefulSet](https://github.com/guerzon/vaultwarden/pull/52) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (9 months ago)
-- [clair helm chart MVP](https://github.com/guerzon/clair-helm/pull/1) on [guerzon/clair-helm](https://github.com/guerzon/clair-helm) (9 months ago)
+- [clair helm chart MVP](https://github.com/guerzon/clair-helm/pull/1) on [guerzon/clair-helm](https://github.com/guerzon/clair-helm) (10 months ago)
 
 ### ⭐ Recent Stars
 
-- [securego/gosec](https://github.com/securego/gosec) - Go security checker (4 days ago)
+- [securego/gosec](https://github.com/securego/gosec) - Go security checker (5 days ago)
 - [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system (3 months ago)
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (6 months ago)
 - [guerzon/clair-helm](https://github.com/guerzon/clair-helm) - Helm chart for Clair, a vulnerability static analysis tool for containers from quay.io (7 months ago)
