@@ -29,6 +29,7 @@ In my free time, I like contributing to open source projects. I find it a great 
 
 ### 🔨 My recent Pull Requests
 
+- [fix: incomplete fix, additional](https://github.com/guerzon/vaultwarden/pull/113) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (today)
 - [fix: make customHeadersConfigMap optional](https://github.com/guerzon/vaultwarden/pull/112) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (today)
 - [fix: add flag to enable notifications service](https://github.com/guerzon/vaultwarden/pull/110) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (3 days ago)
 - [feat: volume improvements](https://github.com/guerzon/vaultwarden/pull/109) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 week ago)
@@ -38,7 +39,6 @@ In my free time, I like contributing to open source projects. I find it a great 
 - [feat: write log when marking InstanceGroup node as needs update](https://github.com/kubernetes/kops/pull/16079) on [kubernetes/kops](https://github.com/kubernetes/kops) (9 months ago)
 - [fix: sts annotations](https://github.com/guerzon/vaultwarden/pull/54) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (9 months ago)
 - [feat: multiple features](https://github.com/guerzon/vaultwarden/pull/53) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (9 months ago)
-- [feat: add podAnnotations on StatefulSet](https://github.com/guerzon/vaultwarden/pull/52) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (9 months ago)
 
 ### ⭐ Recent Stars
 
