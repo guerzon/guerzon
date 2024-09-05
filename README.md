@@ -29,6 +29,7 @@ In my free time, I like contributing to open source projects. I find it a great 
 
 ### 🔨 My recent Pull Requests
 
+- [update application to 1.32.0](https://github.com/guerzon/vaultwarden/pull/116) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (today)
 - [WIP: feat: distributed deployment](https://github.com/guerzon/clair-helm/pull/3) on [guerzon/clair-helm](https://github.com/guerzon/clair-helm) (2 days ago)
 - [feat: yubico and duo as secretkeys](https://github.com/guerzon/vaultwarden/pull/114) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (4 days ago)
 - [fix: incomplete fix, additional](https://github.com/guerzon/vaultwarden/pull/113) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (6 days ago)
@@ -38,7 +39,6 @@ In my free time, I like contributing to open source projects. I find it a great 
 - [feat: update app, add more options, reorg docs](https://github.com/guerzon/vaultwarden/pull/73) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (6 months ago)
 - [feat: add support for more configuration options](https://github.com/guerzon/vaultwarden/pull/72) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (6 months ago)
 - [feat: add yubikey support, update docs](https://github.com/guerzon/vaultwarden/pull/66) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (8 months ago)
-- [feat: write log when marking InstanceGroup node as needs update](https://github.com/kubernetes/kops/pull/16079) on [kubernetes/kops](https://github.com/kubernetes/kops) (10 months ago)
 
 ### ⭐ Recent Stars
 
