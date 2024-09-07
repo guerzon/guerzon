@@ -29,6 +29,7 @@ In my free time, I like contributing to open source projects. I find it a great 
 
 ### 🔨 My recent Pull Requests
 
+- [feat: make enableServiceLinks configurable](https://github.com/guerzon/vaultwarden/pull/118) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (today)
 - [update application to 1.32.0](https://github.com/guerzon/vaultwarden/pull/116) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (2 days ago)
 - [WIP: feat: distributed deployment](https://github.com/guerzon/clair-helm/pull/3) on [guerzon/clair-helm](https://github.com/guerzon/clair-helm) (4 days ago)
 - [feat: yubico and duo as secretkeys](https://github.com/guerzon/vaultwarden/pull/114) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (6 days ago)
@@ -38,7 +39,6 @@ In my free time, I like contributing to open source projects. I find it a great 
 - [feat: volume improvements](https://github.com/guerzon/vaultwarden/pull/109) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (2 weeks ago)
 - [feat: update app, add more options, reorg docs](https://github.com/guerzon/vaultwarden/pull/73) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (6 months ago)
 - [feat: add support for more configuration options](https://github.com/guerzon/vaultwarden/pull/72) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (6 months ago)
-- [feat: add yubikey support, update docs](https://github.com/guerzon/vaultwarden/pull/66) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (8 months ago)
 
 ### ⭐ Recent Stars
 
