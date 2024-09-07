@@ -20,8 +20,8 @@ In my free time, I like contributing to open source projects. I find it a great 
 ### 👷 Check out what I'm currently working on
 
 
-- [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) - Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust, formerly known as bitwarden_rs (1 day ago)
-- [guerzon/clair-helm](https://github.com/guerzon/clair-helm) - Helm chart for Clair, a vulnerability static analysis tool for containers from quay.io (3 days ago)
+- [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) - Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust, formerly known as bitwarden_rs (2 days ago)
+- [guerzon/clair-helm](https://github.com/guerzon/clair-helm) - Helm chart for Clair, a vulnerability static analysis tool for containers from quay.io (4 days ago)
 - [guerzon/gobudget-api](https://github.com/guerzon/gobudget-api) - Golang pet project for a budgeting app inspired by YNAB (2 weeks ago)
 - [etcd-io/website](https://github.com/etcd-io/website) - etcd.io (10 months ago)
 - [fluent/fluent-operator](https://github.com/fluent/fluent-operator) - Operate Fluent Bit and Fluentd in the Kubernetes way - Previously known as FluentBit Operator (10 months ago)
@@ -29,9 +29,9 @@ In my free time, I like contributing to open source projects. I find it a great 
 
 ### 🔨 My recent Pull Requests
 
-- [update application to 1.32.0](https://github.com/guerzon/vaultwarden/pull/116) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 day ago)
-- [WIP: feat: distributed deployment](https://github.com/guerzon/clair-helm/pull/3) on [guerzon/clair-helm](https://github.com/guerzon/clair-helm) (3 days ago)
-- [feat: yubico and duo as secretkeys](https://github.com/guerzon/vaultwarden/pull/114) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (5 days ago)
+- [update application to 1.32.0](https://github.com/guerzon/vaultwarden/pull/116) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (2 days ago)
+- [WIP: feat: distributed deployment](https://github.com/guerzon/clair-helm/pull/3) on [guerzon/clair-helm](https://github.com/guerzon/clair-helm) (4 days ago)
+- [feat: yubico and duo as secretkeys](https://github.com/guerzon/vaultwarden/pull/114) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (6 days ago)
 - [fix: incomplete fix, additional](https://github.com/guerzon/vaultwarden/pull/113) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 week ago)
 - [fix: make customHeadersConfigMap optional](https://github.com/guerzon/vaultwarden/pull/112) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 week ago)
 - [fix: add flag to enable notifications service](https://github.com/guerzon/vaultwarden/pull/110) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 week ago)
@@ -42,7 +42,7 @@ In my free time, I like contributing to open source projects. I find it a great 
 
 ### ⭐ Recent Stars
 
-- [securego/gosec](https://github.com/securego/gosec) - Go security checker (1 week ago)
+- [securego/gosec](https://github.com/securego/gosec) - Go security checker (2 weeks ago)
 - [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system (4 months ago)
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (6 months ago)
 - [guerzon/clair-helm](https://github.com/guerzon/clair-helm) - Helm chart for Clair, a vulnerability static analysis tool for containers from quay.io (7 months ago)
