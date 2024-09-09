@@ -20,8 +20,8 @@ In my free time, I like contributing to open source projects. I find it a great 
 ### 👷 Check out what I'm currently working on
 
 
+- [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) - Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust, formerly known as bitwarden_rs (today)
 - [guerzon/demolopolis](https://github.com/guerzon/demolopolis) - Personal lab (today)
-- [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) - Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust, formerly known as bitwarden_rs (2 days ago)
 - [guerzon/clair-helm](https://github.com/guerzon/clair-helm) - Helm chart for Clair, a vulnerability static analysis tool for containers from quay.io (6 days ago)
 - [guerzon/gobudget-api](https://github.com/guerzon/gobudget-api) - Golang pet project for a budgeting app inspired by YNAB (2 weeks ago)
 - [etcd-io/website](https://github.com/etcd-io/website) - etcd.io (10 months ago)
@@ -30,7 +30,7 @@ In my free time, I like contributing to open source projects. I find it a great 
 
 ### 🔨 My recent Pull Requests
 
-- [WIP: feat: imagePullSecrets support](https://github.com/guerzon/vaultwarden/pull/119) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (today)
+- [feat: imagePullSecrets support](https://github.com/guerzon/vaultwarden/pull/119) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (today)
 - [feat: make enableServiceLinks configurable](https://github.com/guerzon/vaultwarden/pull/118) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (2 days ago)
 - [update application to 1.32.0](https://github.com/guerzon/vaultwarden/pull/116) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (4 days ago)
 - [WIP: feat: distributed deployment](https://github.com/guerzon/clair-helm/pull/3) on [guerzon/clair-helm](https://github.com/guerzon/clair-helm) (6 days ago)
