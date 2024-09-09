@@ -30,6 +30,7 @@ In my free time, I like contributing to open source projects. I find it a great 
 
 ### 🔨 My recent Pull Requests
 
+- [WIP: feat: imagePullSecrets support](https://github.com/guerzon/vaultwarden/pull/119) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (today)
 - [feat: make enableServiceLinks configurable](https://github.com/guerzon/vaultwarden/pull/118) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (2 days ago)
 - [update application to 1.32.0](https://github.com/guerzon/vaultwarden/pull/116) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (4 days ago)
 - [WIP: feat: distributed deployment](https://github.com/guerzon/clair-helm/pull/3) on [guerzon/clair-helm](https://github.com/guerzon/clair-helm) (6 days ago)
@@ -39,7 +40,6 @@ In my free time, I like contributing to open source projects. I find it a great 
 - [fix: add flag to enable notifications service](https://github.com/guerzon/vaultwarden/pull/110) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 week ago)
 - [feat: volume improvements](https://github.com/guerzon/vaultwarden/pull/109) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (2 weeks ago)
 - [feat: update app, add more options, reorg docs](https://github.com/guerzon/vaultwarden/pull/73) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (6 months ago)
-- [feat: add support for more configuration options](https://github.com/guerzon/vaultwarden/pull/72) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (6 months ago)
 
 ### ⭐ Recent Stars
 
