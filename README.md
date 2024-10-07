@@ -26,7 +26,6 @@ In my free time, I like contributing to open source projects. I find it a great 
 - [guerzon/clair-helm](https://github.com/guerzon/clair-helm) - Helm chart for Clair, a vulnerability static analysis tool for containers from quay.io (1 month ago)
 - [etcd-io/website](https://github.com/etcd-io/website) - etcd.io (11 months ago)
 - [fluent/fluent-operator](https://github.com/fluent/fluent-operator) - Operate Fluent Bit and Fluentd in the Kubernetes way - Previously known as FluentBit Operator (11 months ago)
-- [guerzon/dockerize-the-planet](https://github.com/guerzon/dockerize-the-planet) - Collection of Dockerfiles (1 year ago)
 
 ### 🔨 My recent Pull Requests
 
