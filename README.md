@@ -20,9 +20,9 @@ In my free time, I like contributing to open source projects. I find it a great 
 ### 👷 Check out what I'm currently working on
 
 
+- [guerzon/homelab](https://github.com/guerzon/homelab) - Repo for my lab environment | RHEL, Linux, Ansible, DevOps tooling (today)
 - [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) - Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust, formerly known as bitwarden_rs (3 days ago)
 - [guerzon/gobudget-api](https://github.com/guerzon/gobudget-api) - Golang pet project for a budgeting app inspired by YNAB (1 week ago)
-- [guerzon/homelab](https://github.com/guerzon/homelab) - Repo for my lab environment | RHEL, Linux, Ansible, DevOps tooling (3 weeks ago)
 - [guerzon/clair-helm](https://github.com/guerzon/clair-helm) - Helm chart for Clair, a vulnerability static analysis tool for containers from quay.io (1 month ago)
 - [guerzon/vaultwarden-rpm](https://github.com/guerzon/vaultwarden-rpm) - RPM build for Vaultwarden (7 months ago)
 - [guerzon/vaultwarden-ansible](https://github.com/guerzon/vaultwarden-ansible) - Vaultwarden Ansible role (8 months ago)
