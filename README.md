@@ -24,7 +24,6 @@ In my free time, I like contributing to open source projects. I find it a great 
 - [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) - Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust, formerly known as bitwarden_rs (3 days ago)
 - [guerzon/gobudget-api](https://github.com/guerzon/gobudget-api) - Golang pet project for a budgeting app inspired by YNAB (1 week ago)
 - [guerzon/clair-helm](https://github.com/guerzon/clair-helm) - Helm chart for Clair, a vulnerability static analysis tool for containers from quay.io (1 month ago)
-- [guerzon/vaultwarden-rpm](https://github.com/guerzon/vaultwarden-rpm) - RPM build for Vaultwarden (7 months ago)
 - [guerzon/vaultwarden-ansible](https://github.com/guerzon/vaultwarden-ansible) - Vaultwarden Ansible role (8 months ago)
 - [etcd-io/website](https://github.com/etcd-io/website) - etcd.io (11 months ago)
 - [fluent/fluent-operator](https://github.com/fluent/fluent-operator) - Operate Fluent Bit and Fluentd in the Kubernetes way - Previously known as FluentBit Operator (11 months ago)
