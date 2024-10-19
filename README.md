@@ -43,6 +43,7 @@ In my free time, I like contributing to open source projects. I find it a great 
 
 ### ⭐ Recent Stars
 
+- [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) - Vaultwarden Ansible role (today)
 - [stackrox/helm-charts](https://github.com/stackrox/helm-charts) - Helm charts for StackRox Kubernetes Security Platform (4 weeks ago)
 - [securego/gosec](https://github.com/securego/gosec) - Go security checker (1 month ago)
 - [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system (5 months ago)
@@ -52,7 +53,6 @@ In my free time, I like contributing to open source projects. I find it a great 
 - [radian-software/riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language. (10 months ago)
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (11 months ago)
 - [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers (11 months ago)
-- [guerzon/blog.pidnull.io](https://github.com/guerzon/blog.pidnull.io) - k8s, cloud, golang, and security ramblings or a recovering sysadmin. SRE wannabe. (11 months ago)
 
 ## :coffee: reaching out
 
