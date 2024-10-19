@@ -20,16 +20,17 @@ In my free time, I like contributing to open source projects. I find it a great 
 ### 👷 Check out what I'm currently working on
 
 
+- [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) - Vaultwarden Ansible role (today)
 - [guerzon/homelab](https://github.com/guerzon/homelab) - Repo for my lab environment | RHEL, Linux, Ansible, DevOps tooling (today)
 - [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) - Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust, formerly known as bitwarden_rs (3 days ago)
 - [guerzon/gobudget-api](https://github.com/guerzon/gobudget-api) - Golang pet project for a budgeting app inspired by YNAB (1 week ago)
 - [guerzon/clair-helm](https://github.com/guerzon/clair-helm) - Helm chart for Clair, a vulnerability static analysis tool for containers from quay.io (1 month ago)
-- [guerzon/vaultwarden-ansible](https://github.com/guerzon/vaultwarden-ansible) - Vaultwarden Ansible role (8 months ago)
 - [etcd-io/website](https://github.com/etcd-io/website) - etcd.io (11 months ago)
 - [fluent/fluent-operator](https://github.com/fluent/fluent-operator) - Operate Fluent Bit and Fluentd in the Kubernetes way - Previously known as FluentBit Operator (11 months ago)
 
 ### 🔨 My recent Pull Requests
 
+- [feat: add scaffolding](https://github.com/guerzon/ansible-role-vaultwarden/pull/2) on [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) (today)
 - [feat: imagePullSecrets support](https://github.com/guerzon/vaultwarden/pull/119) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 month ago)
 - [feat: make enableServiceLinks configurable](https://github.com/guerzon/vaultwarden/pull/118) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 month ago)
 - [update application to 1.32.0](https://github.com/guerzon/vaultwarden/pull/116) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 month ago)
@@ -39,7 +40,6 @@ In my free time, I like contributing to open source projects. I find it a great 
 - [fix: make customHeadersConfigMap optional](https://github.com/guerzon/vaultwarden/pull/112) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 month ago)
 - [fix: add flag to enable notifications service](https://github.com/guerzon/vaultwarden/pull/110) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 month ago)
 - [feat: volume improvements](https://github.com/guerzon/vaultwarden/pull/109) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 month ago)
-- [feat: update app, add more options, reorg docs](https://github.com/guerzon/vaultwarden/pull/73) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (8 months ago)
 
 ### ⭐ Recent Stars
 
