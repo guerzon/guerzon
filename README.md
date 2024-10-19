@@ -30,6 +30,7 @@ In my free time, I like contributing to open source projects. I find it a great 
 
 ### 🔨 My recent Pull Requests
 
+- [chore: cleanup workaround](https://github.com/guerzon/ansible-role-vaultwarden/pull/4) on [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) (today)
 - [MVP](https://github.com/guerzon/ansible-role-vaultwarden/pull/3) on [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) (today)
 - [feat: add scaffolding](https://github.com/guerzon/ansible-role-vaultwarden/pull/2) on [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) (today)
 - [feat: imagePullSecrets support](https://github.com/guerzon/vaultwarden/pull/119) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 month ago)
@@ -39,7 +40,6 @@ In my free time, I like contributing to open source projects. I find it a great 
 - [feat: yubico and duo as secretkeys](https://github.com/guerzon/vaultwarden/pull/114) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 month ago)
 - [fix: incomplete fix, additional](https://github.com/guerzon/vaultwarden/pull/113) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 month ago)
 - [fix: make customHeadersConfigMap optional](https://github.com/guerzon/vaultwarden/pull/112) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 month ago)
-- [fix: add flag to enable notifications service](https://github.com/guerzon/vaultwarden/pull/110) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 month ago)
 
 ### ⭐ Recent Stars
 
