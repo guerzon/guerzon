@@ -30,6 +30,7 @@ In my free time, I like contributing to open source projects. I find it a great 
 
 ### 🔨 My recent Pull Requests
 
+- [feat: add important variables](https://github.com/guerzon/ansible-role-vaultwarden/pull/5) on [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) (today)
 - [chore: cleanup workaround](https://github.com/guerzon/ansible-role-vaultwarden/pull/4) on [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) (1 day ago)
 - [MVP](https://github.com/guerzon/ansible-role-vaultwarden/pull/3) on [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) (1 day ago)
 - [feat: add scaffolding](https://github.com/guerzon/ansible-role-vaultwarden/pull/2) on [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) (1 day ago)
@@ -39,7 +40,6 @@ In my free time, I like contributing to open source projects. I find it a great 
 - [WIP: feat: distributed deployment](https://github.com/guerzon/clair-helm/pull/3) on [guerzon/clair-helm](https://github.com/guerzon/clair-helm) (1 month ago)
 - [feat: yubico and duo as secretkeys](https://github.com/guerzon/vaultwarden/pull/114) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 month ago)
 - [fix: incomplete fix, additional](https://github.com/guerzon/vaultwarden/pull/113) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 month ago)
-- [fix: make customHeadersConfigMap optional](https://github.com/guerzon/vaultwarden/pull/112) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 month ago)
 
 ### ⭐ Recent Stars
 
