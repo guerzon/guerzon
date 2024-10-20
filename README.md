@@ -20,7 +20,7 @@ In my free time, I like contributing to open source projects. I find it a great 
 ### 👷 Check out what I'm currently working on
 
 
-- [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) - Vaultwarden Ansible role (today)
+- [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) - Ansible role for Vaultwarden (today)
 - [guerzon/homelab](https://github.com/guerzon/homelab) - Repo for my lab environment | RHEL, Linux, Ansible, DevOps tooling (1 day ago)
 - [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) - Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust, formerly known as bitwarden_rs (4 days ago)
 - [guerzon/gobudget-api](https://github.com/guerzon/gobudget-api) - Golang pet project for a budgeting app inspired by YNAB (1 week ago)
@@ -43,7 +43,7 @@ In my free time, I like contributing to open source projects. I find it a great 
 
 ### ⭐ Recent Stars
 
-- [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) - Vaultwarden Ansible role (1 day ago)
+- [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) - Ansible role for Vaultwarden (1 day ago)
 - [stackrox/helm-charts](https://github.com/stackrox/helm-charts) - Helm charts for StackRox Kubernetes Security Platform (1 month ago)
 - [securego/gosec](https://github.com/securego/gosec) - Go security checker (1 month ago)
 - [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system (5 months ago)
