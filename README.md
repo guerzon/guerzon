@@ -63,6 +63,7 @@ Here are some of my pet projects:
 
 ### ⭐ my recent Stars
 
+- [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL (today)
 - [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) - Ansible role for Vaultwarden (2 days ago)
 - [stackrox/helm-charts](https://github.com/stackrox/helm-charts) - Helm charts for StackRox Kubernetes Security Platform (1 month ago)
 - [securego/gosec](https://github.com/securego/gosec) - Go security checker (1 month ago)
@@ -72,7 +73,6 @@ Here are some of my pet projects:
 - [twitter/finagle](https://github.com/twitter/finagle) - A fault tolerant, protocol-agnostic RPC system (10 months ago)
 - [radian-software/riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language. (10 months ago)
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (11 months ago)
-- [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers (11 months ago)
 
 ## :coffee: reaching out
 
