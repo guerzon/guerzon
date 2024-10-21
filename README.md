@@ -56,4 +56,10 @@ In my free time, I like contributing to open source projects. I find it a great 
 
 ## :coffee: reaching out
 
-For a chat, you can reach me via the social links on my profile. Say hello, I don't bite!
+Looking for help on any of these?
+
+- Terraform providers
+- Helm charts
+- Ansible roles
+
+I am reachable via the social links on my profile. Say hello, I don't bite!
