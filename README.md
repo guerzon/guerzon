@@ -19,7 +19,7 @@ My name is **Lester**, a server systems engineer passionate about Linux system i
 In my free time, I like contributing to open source projects. I find it a great way to learn my target tech and to see how different projects approach different problems.
 
 - [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) - Helm chart for [Vaultwarden](https://github.com/dani-garcia/vaultwarden), an alternative implementation of the Bitwarden server API compatible with upstream Bitwarden clients.
-- [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) - Ansible role for Vaultwarden, currently supports Red Hat Enterprise Linux 7, 8, 9 and Rocky Linux 7, 8, and 9.
+- [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) - Ansible role for Vaultwarden, currently supports Red Hat Enterprise Linux 8 and 9 and Rocky Linux 8 and 9.
 
 Recently, I've been spending some time learning Golang. Here are some of my pet projects:
 
