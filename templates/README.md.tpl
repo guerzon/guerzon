@@ -35,11 +35,6 @@ Recently, I've been spending some time learning Golang. Here are some of my pet 
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-### 🔨 my recent Pull Requests
-{{range recentPullRequests 10}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
 ## :coffee: reaching out
 
 If you'd like to chat, I am reachable via the social links on my profile. Say hello, I don't bite!
