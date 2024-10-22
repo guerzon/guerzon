@@ -39,10 +39,10 @@ Here are some of my pet projects:
 
 ### 👷 check out what I'm currently working on
 
-- [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) - Ansible role for Vaultwarden (1 day ago)
-- [guerzon/homelab](https://github.com/guerzon/homelab) - Repo for my lab environment | RHEL, Linux, Ansible, DevOps tooling (2 days ago)
-- [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) - Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust, formerly known as bitwarden_rs (5 days ago)
-- [guerzon/gobudget-api](https://github.com/guerzon/gobudget-api) - Golang pet project for a budgeting app inspired by YNAB (1 week ago)
+- [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) - Ansible role for Vaultwarden (2 days ago)
+- [guerzon/homelab](https://github.com/guerzon/homelab) - Repo for my lab environment | RHEL, Linux, Ansible, DevOps tooling (3 days ago)
+- [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) - Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust, formerly known as bitwarden_rs (6 days ago)
+- [guerzon/gobudget-api](https://github.com/guerzon/gobudget-api) - Golang pet project for a budgeting app inspired by YNAB (2 weeks ago)
 - [guerzon/clair-helm](https://github.com/guerzon/clair-helm) - Helm chart for Clair, a vulnerability static analysis tool for containers from quay.io (1 month ago)
 - [guerzon/gochk](https://github.com/guerzon/gochk) - Command-line tool for various SSL/TLS stuff. (10 months ago)
 - [etcd-io/website](https://github.com/etcd-io/website) - etcd.io (11 months ago)
@@ -50,10 +50,10 @@ Here are some of my pet projects:
 
 ### 🔨 my recent Pull Requests
 
-- [feat: add important variables](https://github.com/guerzon/ansible-role-vaultwarden/pull/5) on [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) (1 day ago)
-- [chore: cleanup workaround](https://github.com/guerzon/ansible-role-vaultwarden/pull/4) on [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) (2 days ago)
-- [MVP](https://github.com/guerzon/ansible-role-vaultwarden/pull/3) on [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) (2 days ago)
-- [feat: add scaffolding](https://github.com/guerzon/ansible-role-vaultwarden/pull/2) on [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) (2 days ago)
+- [feat: add important variables](https://github.com/guerzon/ansible-role-vaultwarden/pull/5) on [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) (2 days ago)
+- [chore: cleanup workaround](https://github.com/guerzon/ansible-role-vaultwarden/pull/4) on [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) (3 days ago)
+- [MVP](https://github.com/guerzon/ansible-role-vaultwarden/pull/3) on [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) (3 days ago)
+- [feat: add scaffolding](https://github.com/guerzon/ansible-role-vaultwarden/pull/2) on [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) (3 days ago)
 - [feat: imagePullSecrets support](https://github.com/guerzon/vaultwarden/pull/119) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 month ago)
 - [feat: make enableServiceLinks configurable](https://github.com/guerzon/vaultwarden/pull/118) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 month ago)
 - [update application to 1.32.0](https://github.com/guerzon/vaultwarden/pull/116) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 month ago)
@@ -63,8 +63,8 @@ Here are some of my pet projects:
 
 ### ⭐ my recent Stars
 
-- [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL (today)
-- [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) - Ansible role for Vaultwarden (2 days ago)
+- [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL (1 day ago)
+- [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) - Ansible role for Vaultwarden (3 days ago)
 - [stackrox/helm-charts](https://github.com/stackrox/helm-charts) - Helm charts for StackRox Kubernetes Security Platform (1 month ago)
 - [securego/gosec](https://github.com/securego/gosec) - Go security checker (1 month ago)
 - [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system (5 months ago)
