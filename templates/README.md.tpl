@@ -6,7 +6,7 @@ My name is **Lester**, a server systems engineer passionate about Linux system i
 ## About me
 
 - 🔭 I’m currently working at a Dutch bank as a DevOps engineer.
-- 🧰 My current stack Azure DevOps and Ansible.
+- 🧰 My current stack is [Azure DevOps + Ansible + RHEL] for Spring Boot applications.
 - 🌱 I’m currently learning Azure, Golang, and preparing for my RHCE.
 - 💬 Ask me about Linux, RHEL, architecting applications in Kubernetes, and DevOps tools.
 
