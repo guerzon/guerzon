@@ -41,19 +41,6 @@ Recently, I've been spending some time learning Golang. Here are some of my pet 
 - [etcd-io/website](https://github.com/etcd-io/website) - etcd.io (11 months ago)
 - [fluent/fluent-operator](https://github.com/fluent/fluent-operator) - Operate Fluent Bit and Fluentd in the Kubernetes way - Previously known as FluentBit Operator (11 months ago)
 
-### 🔨 my recent Pull Requests
-
-- [feat: add important variables](https://github.com/guerzon/ansible-role-vaultwarden/pull/5) on [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) (2 days ago)
-- [chore: cleanup workaround](https://github.com/guerzon/ansible-role-vaultwarden/pull/4) on [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) (3 days ago)
-- [MVP](https://github.com/guerzon/ansible-role-vaultwarden/pull/3) on [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) (3 days ago)
-- [feat: add scaffolding](https://github.com/guerzon/ansible-role-vaultwarden/pull/2) on [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) (3 days ago)
-- [feat: imagePullSecrets support](https://github.com/guerzon/vaultwarden/pull/119) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 month ago)
-- [feat: make enableServiceLinks configurable](https://github.com/guerzon/vaultwarden/pull/118) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 month ago)
-- [update application to 1.32.0](https://github.com/guerzon/vaultwarden/pull/116) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 month ago)
-- [WIP: feat: distributed deployment](https://github.com/guerzon/clair-helm/pull/3) on [guerzon/clair-helm](https://github.com/guerzon/clair-helm) (1 month ago)
-- [feat: yubico and duo as secretkeys](https://github.com/guerzon/vaultwarden/pull/114) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 month ago)
-- [fix: incomplete fix, additional](https://github.com/guerzon/vaultwarden/pull/113) on [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) (1 month ago)
-
 ## :coffee: reaching out
 
 If you'd like to chat, I am reachable via the social links on my profile. Say hello, I don't bite!
