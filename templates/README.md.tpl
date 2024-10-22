@@ -3,7 +3,7 @@
 
 My name is **Lester**, a server systems engineer passionate about Linux system internals, public cloud, Kubernetes, and open source.
 
-### about me
+## about me
 
 - 🔭 I’m currently working at a Dutch bank as a DevOps engineer.
 - 🧰 My current stack is [Azure DevOps + Ansible + RHEL] for Spring Boot applications.
@@ -18,7 +18,7 @@ And these are the ones I am currently working on:
 
 <a href="https://www.redhat.com/en/services/certification/rhce"><img alt="Red Hat Certified Engineer (RHCE)" src="https://images.credly.com/size/680x680/images/19c4e804-54fe-4857-b022-7cfd5520596c/image.png" style="height:100px"/></a><a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification"><img alt="Microsoft Certified: Azure Administrator Associate" src="https://images.credly.com/size/680x680/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" style="height:100px"/></a><a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/?practice-assessment-type=certification"><img alt="Microsoft Certified: Azure Developer Associate" src="https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" style="height:100px"/></a>
 
-### 🌱 My open source projects
+## 🌱 My open source projects
 
 In my free time, I like contributing to open source projects. I find it a great way to learn my target tech and to see how different projects approach different problems.
 
