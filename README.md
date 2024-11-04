@@ -1,13 +1,13 @@
 
 ## hello! 👋
 
-My name is **Lester**, a server systems engineer passionate about Linux system internals, public cloud, Kubernetes, and open source.
+My name is **Lester**, a server systems engineer passionate about Linux systems, DevOps tooling, Kubernetes, and open source.
 
 ## about me
 
 - 🔭 I’m currently working at a Dutch bank as a DevOps engineer.
 - 🧰 My current stack is [Azure DevOps + Ansible + RHEL] for Spring Boot applications.
-- 🌱 I’m currently learning Go, Azure, and preparing for my RHCE.
+- 🌱 I’m currently learning Go and preparing for my RHCE.
 - 💬 Ask me about Linux, RHEL, architecting applications in Kubernetes, and DevOps tools.
 
 ### proficiencies
@@ -29,26 +29,8 @@ My name is **Lester**, a server systems engineer passionate about Linux system i
 
 ## 🌱 My open source projects
 
-In my free time, I like contributing to open source projects. I find it a great way to learn my target tech and to see how different projects approach different problems.
-
 - [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) - Helm chart for [Vaultwarden](https://github.com/dani-garcia/vaultwarden), an alternative implementation of the Bitwarden server API compatible with upstream Bitwarden clients.
 - [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) - Ansible role for Vaultwarden, currently supports Red Hat Enterprise Linux 8 and 9 and Rocky Linux 8 and 9.
-
-Recently, I've been spending some time learning Golang. Here are some of my pet projects:
-
-- [guerzon/gochk](https://github.com/guerzon/gochk) - a command-line tool for various SSL/TLS stuff. I created this tool to practice Go, specifically on interacting with network services.
-- [guerzon/gobudget-api](https://github.com/guerzon/gobudget-api) - Golang pet project for a budgeting app's backend API, inspired by YNAB.
-
-### 👷 check out what I'm currently working on
-
-- [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) - Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust, formerly known as bitwarden_rs (2 days ago)
-- [guerzon/gobudget-api](https://github.com/guerzon/gobudget-api) - Golang pet project for a budgeting app inspired by YNAB (1 week ago)
-- [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) - Ansible role for Vaultwarden (1 week ago)
-- [guerzon/homelab](https://github.com/guerzon/homelab) - Repo for my lab environment | RHEL, Linux, Ansible, DevOps tooling (1 week ago)
-- [guerzon/clair-helm](https://github.com/guerzon/clair-helm) - Helm chart for Clair, a vulnerability static analysis tool for containers from quay.io (1 month ago)
-- [guerzon/gochk](https://github.com/guerzon/gochk) - Command-line tool for various SSL/TLS stuff. (10 months ago)
-- [etcd-io/website](https://github.com/etcd-io/website) - etcd.io (1 year ago)
-- [fluent/fluent-operator](https://github.com/fluent/fluent-operator) - Operate Fluent Bit and Fluentd in the Kubernetes way - Previously known as FluentBit Operator (1 year ago)
 
 ## :coffee: reaching out
 
