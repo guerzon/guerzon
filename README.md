@@ -32,6 +32,8 @@ My name is **Lester**, a server systems engineer passionate about Linux systems,
 
 - [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) - Helm chart for [Vaultwarden](https://github.com/dani-garcia/vaultwarden), an alternative implementation of the Bitwarden server API compatible with upstream Bitwarden clients.
 - [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) - Ansible role for Vaultwarden, currently supports Red Hat Enterprise Linux 8 and 9 and Rocky Linux 8 and 9.
+- [guerzon/homelab](https://github.com/guerzon/homelab) - Public documentation of home lab.
+- [guerzon/terraform-aws-modulescollection](https://github.com/guerzon/terraform-aws-modulescollection) - Collection of reusable Terraform modules.
 
 ## :coffee: reaching out
 
