@@ -7,8 +7,8 @@ My name is **Lester**, a server systems engineer passionate about Linux systems,
 
 - 🔭 I’m currently working at a Dutch bank as a DevOps engineer.
 - 🧰 My current stack is [Azure DevOps + Ansible + RHEL] for Spring Boot applications.
-- 🌱 I’m currently learning GCP and preparing for my Google Cloud certifications.
-- 💬 Ask me about Linux, RHEL, Google Cloud, architecting applications in Kubernetes, and DevOps tools.
+- 🌱 I’m currently learning Golang and preparing for my AWS certifications.
+- 💬 Ask me about Linux, RHEL, AWS, architecting applications in Kubernetes, and DevOps tools.
 
 ### proficiencies
 
