@@ -5,7 +5,7 @@ My name is **Lester**, a server systems engineer passionate about Linux systems,
 
 ## about me
 
-- 🔭 I’m currently working at a Dutch bank as a DevOps engineer.
+- 🔭 I currently work at a Dutch bank as a DevOps engineer.
 - 🧰 My current stack is [Azure DevOps + Ansible + RHEL] for Spring Boot applications.
 - 🌱 I’m currently learning Go and practicing Azure Pipelines.
 - 💬 Ask me about Linux, RHEL, Google Cloud, architecting applications in Kubernetes, and DevOps tools.
@@ -26,14 +26,14 @@ My name is **Lester**, a server systems engineer passionate about Linux systems,
 
 ### 💻 industry certifications
 
-<a href="https://rhtapps.redhat.com/verify?certId=180-214-108"><img alt="Red Hat Certified System Administrator (RHCSA)" src="https://images.credly.com/size/680x680/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" style="height:100px"></a><a href="https://training.linuxfoundation.org/certification/verify/"><img alt="Certified Kubernetes Administrator (CKA)" src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" style="height:100px"></a><a href="https://learn.microsoft.com/en-us/users/guerzon/credentials/82c43bf602b86878"><img alt="Microsoft Certified: Azure Fundamentals" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" style="height:100px"></a>
+<a href="https://rhtapps.redhat.com/verify?certId=180-214-108"><img alt="Red Hat Certified System Administrator (RHCSA)" src="https://images.credly.com/size/680x680/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" style="height:100px"></a><a href="https://training.linuxfoundation.org/certification/verify/"><img alt="Certified Kubernetes Administrator (CKA)" src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" style="height:100px"></a><a href="https://learn.microsoft.com/en-us/users/guerzon/credentials/82c43bf602b86878"><img alt="Microsoft Certified: Azure Fundamentals" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" style="height:100px"></a><a href="https://www.credly.com/badges/3ee3a287-116d-450d-905b-6f59409cccad/public_url"><img alt="Google Cloud Certified Associate Cloud Engineer" src="https://images.credly.com/size/680x680/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" style="height:95px"></a>
 
-## 🌱 My public projects
+## 🌱 my public projects
 
 - [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) - Helm chart for [Vaultwarden](https://github.com/dani-garcia/vaultwarden), an alternative implementation of the Bitwarden server API compatible with upstream Bitwarden clients.
 - [guerzon/ansible-role-vaultwarden](https://github.com/guerzon/ansible-role-vaultwarden) - Ansible role for Vaultwarden, currently supports Red Hat Enterprise Linux 8 and 9 and Rocky Linux 8 and 9.
-- [guerzon/homelab](https://github.com/guerzon/homelab) - Public documentation of my home lab.
-- [guerzon/terraform-aws-modulescollection](https://github.com/guerzon/terraform-modules-gcp) - Collection of Terraform modules I use for various purposes.
+- [guerzon/homelab](https://github.com/guerzon/homelab) - Public documentation of my lab (GCP and VMs running on VMWare).
+- [guerzon/terraform-modules-gcp](https://github.com/guerzon/terraform-modules-gcp) - Collection of Terraform modules I use for various purposes.
 
 ## :coffee: reaching out
 
