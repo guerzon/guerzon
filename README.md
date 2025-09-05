@@ -7,7 +7,7 @@ My name is **Lester**, a server systems engineer passionate about Linux systems,
 
 - 🔭 I currently work at a Dutch bank as a DevOps engineer.
 - 🧰 My current stack is [Azure DevOps + Ansible + RHEL] for Spring Boot applications.
-- 🌱 I’m currently learning Go and practicing Azure Pipelines.
+- 🌱 I’m currently learning Python, practicing Azure Pipelines, and working towards Azure certifications.
 - 💬 Ask me about Linux, RHEL, Google Cloud, architecting applications in Kubernetes, and DevOps tools.
 
 ### proficiencies
@@ -19,10 +19,10 @@ My name is **Lester**, a server systems engineer passionate about Linux systems,
 ![Ansible](https://img.shields.io/badge/Ansible-E00?logo=ansible&logoColor=fff&style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Azure DevOps](https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops-white&logoColor=fff)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 
 ### 💻 industry certifications
 
