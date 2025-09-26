@@ -7,6 +7,7 @@ My name is **Lester**, a server systems engineer passionate about Linux systems,
 
 - 🔭 I currently work at a Dutch bank as a DevOps engineer.
 - 🧰 My current stack is [Azure DevOps + Ansible + RHEL] for Spring Boot applications.
+- ☃️ I speak Ilocano, Tingguian, Filipino, English, Spanish, and German.
 - 💬 Ask me about Linux, RHEL, AWS, architecting applications in Kubernetes, and DevOps tools.
 
 ### proficiencies
