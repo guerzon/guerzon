@@ -1,14 +1,13 @@
 
 ## hello! 👋
 
-My name is **Lester**, a server systems engineer passionate about Linux systems, DevOps tooling, Kubernetes, security, public cloud, and open source.
+My name is **Lester**, a server systems engineer passionate about Linux systems, DevOps tooling, security engineering, and private cloud.
 
 ## about me
 
-- 🔭 I currently work at a Dutch bank as a "DevOps" engineer.
-- 🧰 My current stack is [Azure DevOps + Ansible + RHEL] for Spring Boot applications.
-- 🌱 I’m currently practicing Go and GitHub Actions.
-- 💬 Ask me about Linux, RHEL, AWS, architecting applications in Kubernetes, and DevOps tools.
+- 🔭 I currently work at a Dutch bank as a DevOps/platform engineer.
+- 🧰 My current stack is [Azure DevOps + Ansible + RHEL + private cloud].
+- 💬 Ask me about Linux, RHEL, *nix security, and DevOps tools.
 
 ### proficiencies
 
